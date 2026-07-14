@@ -17,6 +17,18 @@ Every major design decision, software revision, mechanical iteration, experiment
 
 ---
 
+# Project Status
+
+🟢 Active
+
+Current Phase:
+Engineering Research & CAD Design
+
+Competition:
+WRO Future Engineers 2026
+
+---
+
 # Team
 
 ---
