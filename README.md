@@ -1,2 +1,59 @@
-# WRO-2026-Future-Engineers
-Autonomous robot developed for WRO Future Engineers 2026.
+# WRO Future Engineers 2026
+
+> Autonomous robot built for the WRO Future Engineers competition.
+
+---
+
+# Overview
+
+---
+
+# Team
+
+---
+
+# Competition Goal
+
+---
+
+# Robot Specifications
+
+---
+
+# Hardware
+
+---
+
+# Software
+
+---
+
+# Mechanical Design
+
+---
+
+# Development Timeline
+
+---
+
+# Engineering Challenges
+
+---
+
+# Testing
+
+---
+
+# Competition Results
+
+---
+
+# Lessons Learned
+
+---
+
+# Gallery
+
+---
+
+# Future Improvements
