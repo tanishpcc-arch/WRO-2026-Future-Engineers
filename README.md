@@ -29,6 +29,27 @@ WRO Future Engineers 2026
 
 ---
 
+## Repository Roadmap
+
+This repository will evolve alongside the development of the robot.
+
+Current documentation includes the project's purpose and current development status. As development progresses, additional sections will be completed.
+
+### Planned Documentation
+
+- Competition Overview
+- Team
+- Design Requirements
+- Mechanical Design
+- Software Architecture
+- CAD Models
+- Testing
+- Competition Results
+- Lessons Learned
+
+---
+
+  
 # Team
 
 ---
