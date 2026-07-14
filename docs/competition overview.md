@@ -1,3 +1,3 @@
-# 1. competition-overview
+# competition-overview
 
 Documentation under development.
